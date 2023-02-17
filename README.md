@@ -1,2 +1,2 @@
 # GraphicDesignAP.github.io
-Test Site
+Site

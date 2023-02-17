@@ -1,0 +1,3 @@
+function myFunction() {
+    document.getElementById('paragraph')
+.innerHTML = 'Graphic design is the craft of planning and creating visual<br>content to communicate ideas and messages.<br>Graphic design is everywhere you look in the digital age — from billboards to cereal boxes to mobile apps. Through incorporating different elements and principles, these designs can influence our perception and emotions.';  }

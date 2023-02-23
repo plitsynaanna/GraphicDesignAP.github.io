@@ -1,2 +1,0 @@
-# GraphicDesignAP.github.io
-Site
